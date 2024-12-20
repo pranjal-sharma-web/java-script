@@ -19,6 +19,8 @@ let state = null
 
 // object 
 
-console.log(typeof undefined) //undefined//
-console.log(typeof null)// type object//
+console.log(typeof undefined)
+
+// console.log(typeof undefined) //undefined//
+// console.log(typeof null)// type object//
 

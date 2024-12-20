@@ -14,15 +14,17 @@ accountCity = "sehore"
 accountEmail = "pranjal@com"
 accountPassword = "adfdfdf"
 
+
+accountPassword = "3234454"
+accountEmail = "sehorse@.com"
+
+console.log(accountEmail);
+
+
+
 // please dont use VAR beacuse of issuse in block scope and function
 
 
-console.table([accountID, accountEmail, accountPassword, accountCity, accountState])
-console.log(accountID);
+// let accountEmail = "prnjal@.
 
-accountEmail = "hsasn@gamil.com"
-accountPassword = "vvvlllvvllvv"
-accountCity = "indore"
-
-console.table([accountID, accountEmail, accountPassword, accountCity])
 
