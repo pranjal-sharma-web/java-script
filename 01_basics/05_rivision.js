@@ -42,3 +42,14 @@
     
 // }
 // console.table([typeof myfunction])
+
+
+// let score = "3933"
+// let value = (score)
+// console.log( value);
+
+
+let x = 6
+let y = x++
+
+console.log(`x:${x}  y:${y}`);

@@ -40,16 +40,40 @@
 
 // console.log(anotheremail);
 
-let userone = {
-    email: "user@google.com",
-    upi :  "userybl"
-}
+// let userone = {
+//     email: "user@google.com",
+//     upi :  "userybl"
+// }
 
+
+// let usertwo = userone
+
+// usertwo.email = "pranjal@google.com"
+// usertwo.email = "deepak@google.com"
+
+
+// console.log(usertwo);
+// console.log(userone);
+
+
+
+// let myname = "pranjal"
+// let anothername = myname
+// anothername = "shfsf"
+// anothername = "thankyou"
+
+
+
+let userone = {
+    email: "pranjal@google.com"
+}
 
 let usertwo = userone
 
-usertwo.email = "pranjal@google.com"
-usertwo.email = "deepak@google.com"
+usertwo.email = "sharma@google.com"
+usertwo.email= "jdg@.com"
+userone.email = "vandanasharma@.com"
+
 
 
 console.log(usertwo);
