@@ -4,7 +4,7 @@
 // const anothernum = new Number(5020)
 // console.log(anothernum);
 
-// // console.log(anothernum.toString().length);
+// console.log(anothernum.toString().length);
 // console.log(anothernum.toFixed(2));1
 
 // const othernum = 123.39394
@@ -217,3 +217,139 @@
 // const max = 9
 
 // console.log(Math.floor(Math.random()* (max- min + 1))+ min)
+
+// #########################################################################################################################
+
+// for practice
+
+// const num = 345
+// console.log(num);
+
+// const num1 = new String(345)
+// console.log(num1);
+
+// const value = 344343
+// console.log(value.toFixed().length);
+
+// const num = 34445.5
+// console.log(num.toFixed(10));
+
+// const value = 3456
+// console.log(value.toFixed().length);
+
+// const value = 12345534
+// console.log(value.toLocaleString('en-uk'));
+
+// const num = 46.5694786
+// console.log(num.toPrecision(9));
+
+// const sum = 99.853940
+// console.log(sum.toPrecision(4));
+
+
+// const num = 1234566
+// console.log(num.toExponential(3));
+
+// const sum = 92402403
+// console.log(sum.toExponential(9));
+
+// const hun = 38849403
+// console.log(hun.toExponential(5));
+
+// const value = 30840384
+// console.log(value.toExponential(3));
+
+
+// valueoff
+
+// const num = new String(12332)
+// console.log(num.valueOf());
+
+// let sum = new Number(330303-3)
+// console.log(sum.valueOf());
+
+// const num = {
+//     valueof: function(){
+//         return true
+
+//     }
+// }
+
+
+// console.log(num.valueof());
+
+
+// const name = {
+//     name: 'pranjal',
+//     age:  19,
+//  function(){
+//         return this.name,this.age
+//     }
+// }
+
+// console.log(name);
+
+// Math in js
+
+
+// absulute
+
+// console.log(Math.abs(-22)); remover minus sign from the value
+
+// console.log(Math.ceil(5.1));
+// console.log(Math.round(5.1));
+// console.log(Math.floor(5.1));
+ 
+
+// Math.random
+
+// console.log(Math.ceil(Math.random()*10) + 1);
+
+// const min= 45
+// const max= 56
+
+// console.log(Math.random() * (max - min + 1) + min)
+
+
+// const min= 22
+// const max= 15
+
+// console.log(Math.random()*(max-min+1) + min)
+
+// ################################################################################################333
+
+// console.log(Math.ceil(Math.random()* 20) + 1);
+
+
+// const min= 19
+// const max= 34
+
+
+// console.log(Math.floor(Math.random() * (max - min + 1)) + min)
+
+// const person = {
+//     name: "pranjal",
+//     age:  18,
+//     valueof: function () {
+        
+//         return this.name
+//     }
+// }
+// console.log(person.valueof());
+
+
+// const num = 98.529483
+// console.log(num.toPrecision(4));
+
+
+// const sum = 34234232
+// console.log(sum.toExponential(4));
+
+
+// console.log(Math.trunc(4.5));
+    
+// console.log(Math.sqrt(81))
+
+// console.log(Math.pow(3,2));
+
+// console.log(Math.PI)
